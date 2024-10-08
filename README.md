@@ -1,5 +1,5 @@
 # Primeira pagina web 1°C
-## Desinvolvido por
+## Desenvolvido por
 ### Estudande João Ramalheira 😊
 ### Fisíca 💔
 ### Inglês 😠
